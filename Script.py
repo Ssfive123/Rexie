@@ -1,17 +1,20 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {}
-    
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/movie_hub_main'>𝖬ᴏᴠɪᴇ 𝖧ᴜʙ</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
-"""
+    START_TXT = """<b>Hello {}</b>
+
+<i>Iam A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.  Just Add Me To Your Group And Enjoy</i>
+
+<b>Made With ❤ BY <a href='https://t.me/Coby_Support'>MH Botz</a></b>"""
     HELP_TXT = """<b>Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/movie_hub_main'>𝖬ᴏᴠɪᴇ 𝖧ᴜʙ</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
-    ABOUT_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-    
-• ꜰᴜʟʟ ɴᴀᴍᴇ : sʜɪᴠᴀ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @OGGY123kph
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/OGGY123kph'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-“ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
+        Welcome to Help Area 🎁</b>"""
+    ABOUT_TXT = """<b>
+🤖 𝖡ᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/rexie_autofilterbot'>Rᴇxɪᴇ</a>
+
+📝 𝖫ᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>𝖯ʏᴛʜᴏɴ</a>
+
+📚 𝖥ʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>𝖯ʏʀᴏɢʀᴀᴍ</a>
+
+</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
 - ഇപ്പൊ കിട്ടും നോക്കി ഇരുന്നോ .
