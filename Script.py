@@ -14,13 +14,19 @@ class script(object):
 
 📚 𝖥ʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram/pyrogram'>𝖯ʏʀᴏɢʀᴀᴍ</a>
 
-</b>"""
+📡 𝖧ᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>𝖧ᴇʀᴏᴋᴜ</a>
+
+👨‍💻 𝖣ᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/OGGY123kph'>𝖲ʜɪᴠᴀ</a>
+
+📃 𝖲ᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/kgf_2_movie_r'>𝖢ʟɪᴄᴋ ʜᴇʀᴇ</a>
+
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/Coby_Support'>𝖬𝖧 ʙᴏᴛs</a>
+
+📢 𝖴ᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+NeK_dvXeatwyMWRl'>𝖬𝖧 ʙᴏᴛs</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
-- ഇപ്പൊ കിട്ടും നോക്കി ഇരുന്നോ .
-
-<b>DEVS:</b>
-- <a href=https://t.me/ss_linkz>ss ʟɪɴᴋᴢ</a>"""
+<i>This Bot Was Maked By Taking Somany Codes Of Other Kind Repos...
+Main Code : 📃 Eva Maria</i>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝕋𝔼𝕊𝕊𝔸 will respond whenever a keyword is found the message
@@ -41,7 +47,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝕋𝔼𝕊𝕊𝔸 supports buttons with any telegram media type.
+2. REXIE supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -101,7 +107,7 @@ This module only works for my admins
 👥 ɢʀᴏᴜᴘs: <code>{}</code>
 📉 ᴏᴄᴄᴜᴘɪᴇᴅ: <code>{}</code> """
  
-    LOG_TEXT_G = """📮 ᴄᴏʙʏ ʙᴏᴛ #NewGroup
+    LOG_TEXT_G = """📮 𝖱ᴇxɪᴇ ʙᴏᴛ #NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
